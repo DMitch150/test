@@ -1,0 +1,8 @@
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\bin\Debug\Week 3 Car.exe.config
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\bin\Debug\Week 3 Car.exe
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\bin\Debug\Week 3 Car.pdb
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\obj\Debug\Week 3 Car.csproj.AssemblyReference.cache
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\obj\Debug\Week 3 Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\obj\Debug\Week 3 Car.csproj.CoreCompileInputs.cache
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\obj\Debug\Week 3 Car.exe
+C:\Users\DMitc\OneDrive\Documents\LSC\Game 1343 Projects\Week 3 Car\obj\Debug\Week 3 Car.pdb
